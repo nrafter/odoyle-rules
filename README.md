@@ -12,3 +12,4 @@ http://www.symantec.com/connect/blogs/emerging-threat-ms-ie-10-zero-day-cve-2014
 
 http://blog.spiderlabs.com/2014/08/a-peek-into-the-lions-den-the-magnitude-aka-popads-exploit-kit.html
 http://www.kahusecurity.com/2013/deobfuscating-magnitude-exploit-kit/
+http://malware.dontneedcoffee.com/2013/10/Magnitude.html
