@@ -19,3 +19,9 @@ http://malware.dontneedcoffee.com/2013/10/Magnitude.html
 http://malware.dontneedcoffee.com/2014/06/cve-2014-0515-flash-1300182-and-earlier.html
 2014-0515
 http://files.dontneedcoffee.com/public.php?service=files&t=89f633a6cba928df4a3669d4bc30faec
+
+
+
+
+
+https://securitylab.disi.unitn.it/lib/exe/fetch.php?media=kotov_massacci_anatomy_of_exploit_kits_wp.pdf
